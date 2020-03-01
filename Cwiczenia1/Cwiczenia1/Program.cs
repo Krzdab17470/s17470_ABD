@@ -26,7 +26,6 @@ namespace Cwiczenia1
                 }
 
             }
-            
             Console.WriteLine("Koniec!");
         }
     }
